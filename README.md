@@ -2,7 +2,7 @@
 Data science and consulting professional with a passion for applying data science techniques to solve complex business challenges.
 
 
-* 📈 I'm currently studying an MSc in Data Science at King's College London, expected graduation September 2024
+* 📈 MSc student in Data Science at King's College London, expected graduation September 2024
 * 🔭 Currently working on a dissertation researching LLM model performance and relative energy efficiency optimizations
 * 🌱 Interested in green technologies and applications of data science techniques to climate change amelioration
 
