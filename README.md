@@ -1,8 +1,9 @@
 ## Hi 👋, I'm Kate
+I am a data science and consulting professional with a passion for applying data science techniques to solve complex business challenges.
 
-💻 Full Stack Web Developer
 
-🏫 I'm currently studying Softwaring Engineering
+* 🌱 I'm currently studying an MSc in Data Science at King's College London, expected graduation September 2024
+* 🔭 Currently working on a dissertation researching LLM model performance and relative energy efficiency optimizations
 
 <!--
 **katepoole26/katepoole26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
