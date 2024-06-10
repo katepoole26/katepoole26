@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 👋, I'm Kate
+
+💻 Full Stack Web Developer
+
+🏫 I'm currently studying Softwaring Engineering
 
 <!--
 **katepoole26/katepoole26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
