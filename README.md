@@ -4,7 +4,7 @@ Data science and consulting professional with a passion for applying data scienc
 
 * 📈 MSc student in Data Science at King's College London, expected graduation September 2024
 * 🔭 Currently working on a dissertation researching LLM model performance and relative energy efficiency optimizations
-* 🎓 University of Pennsylvania alum - 2020 graduate with a Bachelor's of Economics and minors in data science and environmental science 
+* 🎓 University of Pennsylvania alum - 2020 grad with a Bachelor in Economics and minors in data science and environmental science 
 * 🌱 Interested in green technologies and applications of data science techniques to climate change mitigation
 
 <!--
